@@ -1,3 +1,4 @@
+<title>BrandPulse | Comunicación para Emprendedores</title> <script src="https://cdn.tailwindcss.com"></script> <script src="https://unpkg.com/lucide@latest"></script> <style> @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap'); body { font-family: 'Inter', sans-serif; } .glass { background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); } .perspective { perspective: 1000px; } .preserve-3d { transform-style: preserve-3d; transition: transform 0.6s; } .flip-card:hover .preserve-3d { transform: rotateY(180deg); } .backface-hidden { backface-visibility: hidden; } .rotate-y-180 { transform: rotateY(180deg); } </style>
 <!-- 1. HERO SECTION -->
 <section class="relative pt-24 pb-32 px-6">
     <div class="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-[800px] h-[600px] bg-purple-600/20 blur-[120px] rounded-full -z-10"></div>
